@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/list"
+        android:orderInCategory="300"
+        android:title="List"
+        app:showAsAction="ifRoom |collapseActionView"
+        android:icon="@drawable/baseline_playlist_add_check_24"/>
+    <item
+        android:id="@+id/note"
+        android:orderInCategory="300"
+        android:title="Note"
+        app:showAsAction="ifRoom |collapseActionView"
+        android:icon="@drawable/baseline_event_note_24"/>
+
+
+</menu>
