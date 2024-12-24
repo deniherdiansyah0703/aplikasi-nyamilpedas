@@ -1,3 +1,2 @@
-Aplikasi Nyamil Pedas.
-Untuk mendapatkan password dokumen yang .zip, bisa dilihat pada youtube channel saya. 
-By: Deni Herdiansyah, S.Kom
+Password Source Code yang di format zip dapat dicari di video pada channel youtube saya "Deni Herdiansyah"
+atau bisa hub saya lewat LinkedIn
